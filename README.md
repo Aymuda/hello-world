@@ -1,2 +1,3 @@
 # hello-world
-Contain my projects
+I am Ayomide by name 
+A positive minded person aspiring to be a programmer 
